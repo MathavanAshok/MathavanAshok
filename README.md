@@ -99,7 +99,7 @@ Responsive developer portfolio showcasing projects, skills, certifications and c
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=MathavanAshok&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MathavanAshok&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
 

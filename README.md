@@ -117,6 +117,7 @@ Responsive developer portfolio showcasing projects, skills, certifications and c
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathavanAshok/MathavanAshok/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathavanAshok/MathavanAshok/output/github-contribution-grid-snake-purple.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MathavanAshok/MathavanAshok/output/github-contribution-grid-snake-purple.svg" />
 </picture>
 
 # 🏆 GitHub Trophies

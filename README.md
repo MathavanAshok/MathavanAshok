@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=250&section=header&text=Mathavan%20Ashok&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Mathavan Ashok</h1>
 
 <h3 align="center">
@@ -9,6 +10,9 @@ Java Full Stack Developer | Spring Boot | React | Building Modern Web Applicatio
 </p>
 
 ---
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</p>
 
 # 👨‍💻 About Me
 
@@ -86,15 +90,10 @@ Responsive developer portfolio showcasing projects, skills, certifications and c
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MathavanAshok&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathavanAshok&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?MathavanAshok=MathavanAshok&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -180,3 +179,4 @@ Responsive developer portfolio showcasing projects, skills, certifications and c
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>

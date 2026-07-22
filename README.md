@@ -86,14 +86,6 @@ Responsive developer portfolio showcasing projects, skills, certifications and c
 🔗 Live Demo: 
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?MathavanAshok=MathavanAshok&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
----
 # 🔥 GitHub Streak
 
 <p align="center">

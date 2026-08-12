@@ -52,6 +52,7 @@ Java Full Stack Developer | Spring Boot | React | Building Modern Web Applicatio
 
 </p>
 
+
 ---
 
 # 🚀 Featured Projects
@@ -117,6 +118,12 @@ Responsive developer portfolio showcasing projects, skills, certifications and c
 
 <img src="https://github-profile-trophy.vercel.app/?username=MathavanAshok&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
+</p>
+
+<h2 align="center"> </h2>
+
+<p align="center">
+  <img src="./game.gif" width="900" alt="GitHub Space Shooter">
 </p>
 
 ---
